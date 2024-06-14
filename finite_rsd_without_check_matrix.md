@@ -238,5 +238,4 @@ while True:
         A,B,C=map(int,input("欲知state的probability:(c,r,u)").split())
         print(probability[A][B][C])
 
-yyyyy
 
