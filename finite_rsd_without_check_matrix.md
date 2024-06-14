@@ -7,7 +7,7 @@ u=k
 
 
 
-# c,r=map(int,input("c、r:").split())
+#c,r=map(int,input("c、r:").split())
 # print("c=",c)
 # print("r=",r)
 
